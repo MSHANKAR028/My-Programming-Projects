@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
+  "name": "ts-learning",
+  "version": "1.0.0",
+  "description": "my ts-learning project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./dist/index.js",
+    "fire":"node ./dist/Sprint6.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
