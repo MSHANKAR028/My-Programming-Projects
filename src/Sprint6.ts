@@ -436,7 +436,7 @@ function minimumSum4Digits(num: number): number {
   let str = "" + num;
   let arr = str.split("");
   arr.sort();
-  console.log(arr)
+ 
 
   let arr0= Number.parseInt(arr[0] ?? "0" )
   let arr1 = Number.parseInt(arr[1] ?? "0")

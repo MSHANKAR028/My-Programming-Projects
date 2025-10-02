@@ -9,6 +9,7 @@
   "scripts": {
     "dev": "node ./dist/index.js",
     "fire":"node ./dist/Sprint6.js",
+    "calm": "node ./dist/Sprint7.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
